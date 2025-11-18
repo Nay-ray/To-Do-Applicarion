@@ -25,5 +25,5 @@ JavaScript  – Functionality and interactivity
 📸 Preview
 <img width="945" height="449" alt="image" src="https://github.com/user-attachments/assets/08b1f436-e924-4936-bcc4-a802b754706c" />
 
-# delta-demo
+
 
