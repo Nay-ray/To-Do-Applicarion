@@ -14,8 +14,7 @@ A simple and user-friendly To-Do List Web App built with HTML, CSS, and JavaScri
 
 
  🛠️ Tech Stack
-
-HTML5 – Structure and layout
+  HTML5 – Structure and layout
 
 CSS3 – Styling and animations
 
