@@ -6,7 +6,6 @@ A simple and user-friendly To-Do List Web App built with HTML, CSS, and JavaScri
  ➕ Add new tasks
 ✅ Mark tasks as completed
 🗑️ Delete individual tasks
-
 📱 Fully responsive design for mobile and desktop
 
 
