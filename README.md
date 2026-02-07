@@ -1,8 +1,7 @@
 ✅ To-Do Web Application
 A simple and user-friendly To-Do List Web App built with HTML, CSS, and JavaScript to help users manage daily tasks efficiently. This project demonstrates core web development concepts like DOM manipulation, local storage, responsive design, and interactive UI.
 
-
- 🚀 Features
+🚀 Features
 ➕ Add new tasks
 ✅ Mark tasks as completed
 🗑️ Delete individual tasks
