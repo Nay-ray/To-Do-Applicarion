@@ -8,7 +8,7 @@ A simple and user-friendly To-Do List Web App built with HTML, CSS, and JavaScri
 📱 Fully responsive design for mobile and desktop
 
 🛠️ Tech Stack
-  HTML5 – Structure and layout
+ HTML5 – Structure and layout
   CSS3 – Styling and animations
  JavaScript  – Functionality and interactivity
 
